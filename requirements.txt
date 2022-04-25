@@ -1,0 +1,8 @@
+pyzbar==0.1.8
+python-telegram-bot==13.5
+Pillow==8.2.0
+python-gettext==4.0
+emoji-country-flag==1.2.4
+pycountry==20.7.3
+psycopg2==2.9.1
+DateTime==4.3
