@@ -26,7 +26,6 @@ import flag
 from configure import *
 
 # DB
-
 from db import add_user
 from db import getLang
 from db import change_language
